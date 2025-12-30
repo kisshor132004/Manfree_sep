@@ -1,0 +1,19 @@
+
+Reg: 12
+Name: kisshor
+DOB: 13042004
+Gender: male
+Account: -539222976
+Mail: kisshor@gmail.com
+Phone: 773305939
+Username: kisshor_A
+Password: 1234
+Reg: 12
+Name: ki
+DOB: 12032004
+Gender: male
+Account: -539222987
+Mail: kisshor@gmail.com
+Phone: 773305939
+Username: ki
+Password: 1233

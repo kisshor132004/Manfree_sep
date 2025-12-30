@@ -1,0 +1,816 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"4210 C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4210: extern volatile __bit RE0 __attribute__((address(0x48)));
+[v _RE0 `Vb ~T0 @X0 0 e@72 ]
+"353
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 353: extern volatile unsigned char PORTD __attribute__((address(0x008)));
+[v _PORTD `Vuc ~T0 @X0 0 e@8 ]
+"4213
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4213: extern volatile __bit RE1 __attribute__((address(0x49)));
+[v _RE1 `Vb ~T0 @X0 0 e@73 ]
+[t ~ __interrupt . k ]
+[t T1 __interrupt ]
+"4387
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4387: extern volatile __bit TMR2IF __attribute__((address(0x61)));
+[v _TMR2IF `Vb ~T0 @X0 0 e@97 ]
+"766
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 766: extern volatile unsigned char TMR2 __attribute__((address(0x011)));
+[v _TMR2 `Vuc ~T0 @X0 0 e@17 ]
+"4144
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4144: extern volatile __bit RC2 __attribute__((address(0x3A)));
+[v _RC2 `Vb ~T0 @X0 0 e@58 ]
+"4138
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4138: extern volatile __bit RC0 __attribute__((address(0x38)));
+[v _RC0 `Vb ~T0 @X0 0 e@56 ]
+"4141
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4141: extern volatile __bit RC1 __attribute__((address(0x39)));
+[v _RC1 `Vb ~T0 @X0 0 e@57 ]
+[p mainexit ]
+"229
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 229: extern volatile unsigned char PORTB __attribute__((address(0x006)));
+[v _PORTB `Vuc ~T0 @X0 0 e@6 ]
+"415
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 415: extern volatile unsigned char PORTE __attribute__((address(0x009)));
+[v _PORTE `Vuc ~T0 @X0 0 e@9 ]
+"1603
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1603: extern volatile unsigned char TRISD __attribute__((address(0x088)));
+[v _TRISD `Vuc ~T0 @X0 0 e@136 ]
+"1665
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1665: extern volatile unsigned char TRISE __attribute__((address(0x089)));
+[v _TRISE `Vuc ~T0 @X0 0 e@137 ]
+"3388
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3388: extern volatile unsigned char ANSEL __attribute__((address(0x188)));
+[v _ANSEL `Vuc ~T0 @X0 0 e@392 ]
+"3450
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3450: extern volatile unsigned char ANSELH __attribute__((address(0x189)));
+[v _ANSELH `Vuc ~T0 @X0 0 e@393 ]
+"291
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 291: extern volatile unsigned char PORTC __attribute__((address(0x007)));
+[v _PORTC `Vuc ~T0 @X0 0 e@7 ]
+"1541
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1541: extern volatile unsigned char TRISC __attribute__((address(0x087)));
+[v _TRISC `Vuc ~T0 @X0 0 e@135 ]
+"1479
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1479: extern volatile unsigned char TRISB __attribute__((address(0x086)));
+[v _TRISB `Vuc ~T0 @X0 0 e@134 ]
+"3901
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3901: extern volatile __bit GIE __attribute__((address(0x5F)));
+[v _GIE `Vb ~T0 @X0 0 e@95 ]
+"4045
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4045: extern volatile __bit PEIE __attribute__((address(0x5E)));
+[v _PEIE `Vb ~T0 @X0 0 e@94 ]
+"4384
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4384: extern volatile __bit TMR2IE __attribute__((address(0x461)));
+[v _TMR2IE `Vb ~T0 @X0 0 e@1121 ]
+"773
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 773: extern volatile unsigned char T2CON __attribute__((address(0x012)));
+[v _T2CON `Vuc ~T0 @X0 0 e@18 ]
+"2042
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2042: extern volatile unsigned char PR2 __attribute__((address(0x092)));
+[v _PR2 `Vuc ~T0 @X0 0 e@146 ]
+"4108
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4108: extern volatile __bit RB0 __attribute__((address(0x30)));
+[v _RB0 `Vb ~T0 @X0 0 e@48 ]
+"4111
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4111: extern volatile __bit RB1 __attribute__((address(0x31)));
+[v _RB1 `Vb ~T0 @X0 0 e@49 ]
+"4114
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4114: extern volatile __bit RB2 __attribute__((address(0x32)));
+[v _RB2 `Vb ~T0 @X0 0 e@50 ]
+"4117
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4117: extern volatile __bit RB3 __attribute__((address(0x33)));
+[v _RB3 `Vb ~T0 @X0 0 e@51 ]
+"4120
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4120: extern volatile __bit RB4 __attribute__((address(0x34)));
+[v _RB4 `Vb ~T0 @X0 0 e@52 ]
+"4123
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4123: extern volatile __bit RB5 __attribute__((address(0x35)));
+[v _RB5 `Vb ~T0 @X0 0 e@53 ]
+"7 PROJECT1_WASHING_MECHINE.c
+[p x FOSC  =  INTRC_NOCLKOUT ]
+"8
+[p x WDTE  =  OFF        ]
+"9
+[p x PWRTE  =  ON        ]
+"10
+[p x MCLRE  =  ON        ]
+"11
+[p x CP  =  OFF          ]
+"12
+[p x CPD  =  OFF         ]
+"13
+[p x BOREN  =  OFF       ]
+"14
+[p x IESO  =  ON         ]
+"15
+[p x FCMEN  =  ON        ]
+"16
+[p x LVP  =  OFF         ]
+"17
+[p x BOR4V  =  BOR40V    ]
+"18
+[p x WRT  =  OFF         ]
+"55 C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 55: __asm("INDF equ 00h");
+[; <" INDF equ 00h ;# ">
+"62
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 62: __asm("TMR0 equ 01h");
+[; <" TMR0 equ 01h ;# ">
+"69
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 69: __asm("PCL equ 02h");
+[; <" PCL equ 02h ;# ">
+"76
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 76: __asm("STATUS equ 03h");
+[; <" STATUS equ 03h ;# ">
+"162
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 162: __asm("FSR equ 04h");
+[; <" FSR equ 04h ;# ">
+"169
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 169: __asm("PORTA equ 05h");
+[; <" PORTA equ 05h ;# ">
+"231
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 231: __asm("PORTB equ 06h");
+[; <" PORTB equ 06h ;# ">
+"293
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 293: __asm("PORTC equ 07h");
+[; <" PORTC equ 07h ;# ">
+"355
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 355: __asm("PORTD equ 08h");
+[; <" PORTD equ 08h ;# ">
+"417
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 417: __asm("PORTE equ 09h");
+[; <" PORTE equ 09h ;# ">
+"455
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 455: __asm("PCLATH equ 0Ah");
+[; <" PCLATH equ 0Ah ;# ">
+"462
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 462: __asm("INTCON equ 0Bh");
+[; <" INTCON equ 0Bh ;# ">
+"540
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 540: __asm("PIR1 equ 0Ch");
+[; <" PIR1 equ 0Ch ;# ">
+"596
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 596: __asm("PIR2 equ 0Dh");
+[; <" PIR2 equ 0Dh ;# ">
+"653
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 653: __asm("TMR1 equ 0Eh");
+[; <" TMR1 equ 0Eh ;# ">
+"660
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 660: __asm("TMR1L equ 0Eh");
+[; <" TMR1L equ 0Eh ;# ">
+"667
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 667: __asm("TMR1H equ 0Fh");
+[; <" TMR1H equ 0Fh ;# ">
+"674
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 674: __asm("T1CON equ 010h");
+[; <" T1CON equ 010h ;# ">
+"768
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 768: __asm("TMR2 equ 011h");
+[; <" TMR2 equ 011h ;# ">
+"775
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 775: __asm("T2CON equ 012h");
+[; <" T2CON equ 012h ;# ">
+"846
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 846: __asm("SSPBUF equ 013h");
+[; <" SSPBUF equ 013h ;# ">
+"853
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 853: __asm("SSPCON equ 014h");
+[; <" SSPCON equ 014h ;# ">
+"923
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 923: __asm("CCPR1 equ 015h");
+[; <" CCPR1 equ 015h ;# ">
+"930
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 930: __asm("CCPR1L equ 015h");
+[; <" CCPR1L equ 015h ;# ">
+"937
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 937: __asm("CCPR1H equ 016h");
+[; <" CCPR1H equ 016h ;# ">
+"944
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 944: __asm("CCP1CON equ 017h");
+[; <" CCP1CON equ 017h ;# ">
+"1041
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1041: __asm("RCSTA equ 018h");
+[; <" RCSTA equ 018h ;# ">
+"1136
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1136: __asm("TXREG equ 019h");
+[; <" TXREG equ 019h ;# ">
+"1143
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1143: __asm("RCREG equ 01Ah");
+[; <" RCREG equ 01Ah ;# ">
+"1150
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1150: __asm("CCPR2 equ 01Bh");
+[; <" CCPR2 equ 01Bh ;# ">
+"1157
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1157: __asm("CCPR2L equ 01Bh");
+[; <" CCPR2L equ 01Bh ;# ">
+"1164
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1164: __asm("CCPR2H equ 01Ch");
+[; <" CCPR2H equ 01Ch ;# ">
+"1171
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1171: __asm("CCP2CON equ 01Dh");
+[; <" CCP2CON equ 01Dh ;# ">
+"1241
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1241: __asm("ADRESH equ 01Eh");
+[; <" ADRESH equ 01Eh ;# ">
+"1248
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1248: __asm("ADCON0 equ 01Fh");
+[; <" ADCON0 equ 01Fh ;# ">
+"1349
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1349: __asm("OPTION_REG equ 081h");
+[; <" OPTION_REG equ 081h ;# ">
+"1419
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1419: __asm("TRISA equ 085h");
+[; <" TRISA equ 085h ;# ">
+"1481
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1481: __asm("TRISB equ 086h");
+[; <" TRISB equ 086h ;# ">
+"1543
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1543: __asm("TRISC equ 087h");
+[; <" TRISC equ 087h ;# ">
+"1605
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1605: __asm("TRISD equ 088h");
+[; <" TRISD equ 088h ;# ">
+"1667
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1667: __asm("TRISE equ 089h");
+[; <" TRISE equ 089h ;# ">
+"1705
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1705: __asm("PIE1 equ 08Ch");
+[; <" PIE1 equ 08Ch ;# ">
+"1761
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1761: __asm("PIE2 equ 08Dh");
+[; <" PIE2 equ 08Dh ;# ">
+"1818
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1818: __asm("PCON equ 08Eh");
+[; <" PCON equ 08Eh ;# ">
+"1865
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1865: __asm("OSCCON equ 08Fh");
+[; <" OSCCON equ 08Fh ;# ">
+"1930
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1930: __asm("OSCTUNE equ 090h");
+[; <" OSCTUNE equ 090h ;# ">
+"1982
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1982: __asm("SSPCON2 equ 091h");
+[; <" SSPCON2 equ 091h ;# ">
+"2044
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2044: __asm("PR2 equ 092h");
+[; <" PR2 equ 092h ;# ">
+"2051
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2051: __asm("SSPADD equ 093h");
+[; <" SSPADD equ 093h ;# ">
+"2058
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2058: __asm("SSPMSK equ 093h");
+[; <" SSPMSK equ 093h ;# ">
+"2063
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2063: __asm("MSK equ 093h");
+[; <" MSK equ 093h ;# ">
+"2180
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2180: __asm("SSPSTAT equ 094h");
+[; <" SSPSTAT equ 094h ;# ">
+"2349
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2349: __asm("WPUB equ 095h");
+[; <" WPUB equ 095h ;# ">
+"2419
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2419: __asm("IOCB equ 096h");
+[; <" IOCB equ 096h ;# ">
+"2489
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2489: __asm("VRCON equ 097h");
+[; <" VRCON equ 097h ;# ">
+"2559
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2559: __asm("TXSTA equ 098h");
+[; <" TXSTA equ 098h ;# ">
+"2645
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2645: __asm("SPBRG equ 099h");
+[; <" SPBRG equ 099h ;# ">
+"2707
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2707: __asm("SPBRGH equ 09Ah");
+[; <" SPBRGH equ 09Ah ;# ">
+"2777
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2777: __asm("PWM1CON equ 09Bh");
+[; <" PWM1CON equ 09Bh ;# ">
+"2847
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2847: __asm("ECCPAS equ 09Ch");
+[; <" ECCPAS equ 09Ch ;# ">
+"2929
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2929: __asm("PSTRCON equ 09Dh");
+[; <" PSTRCON equ 09Dh ;# ">
+"2973
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2973: __asm("ADRESL equ 09Eh");
+[; <" ADRESL equ 09Eh ;# ">
+"2980
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2980: __asm("ADCON1 equ 09Fh");
+[; <" ADCON1 equ 09Fh ;# ">
+"3014
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3014: __asm("WDTCON equ 0105h");
+[; <" WDTCON equ 0105h ;# ">
+"3067
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3067: __asm("CM1CON0 equ 0107h");
+[; <" CM1CON0 equ 0107h ;# ">
+"3132
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3132: __asm("CM2CON0 equ 0108h");
+[; <" CM2CON0 equ 0108h ;# ">
+"3197
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3197: __asm("CM2CON1 equ 0109h");
+[; <" CM2CON1 equ 0109h ;# ">
+"3248
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3248: __asm("EEDATA equ 010Ch");
+[; <" EEDATA equ 010Ch ;# ">
+"3253
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3253: __asm("EEDAT equ 010Ch");
+[; <" EEDAT equ 010Ch ;# ">
+"3260
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3260: __asm("EEADR equ 010Dh");
+[; <" EEADR equ 010Dh ;# ">
+"3267
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3267: __asm("EEDATH equ 010Eh");
+[; <" EEDATH equ 010Eh ;# ">
+"3274
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3274: __asm("EEADRH equ 010Fh");
+[; <" EEADRH equ 010Fh ;# ">
+"3281
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3281: __asm("SRCON equ 0185h");
+[; <" SRCON equ 0185h ;# ">
+"3338
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3338: __asm("BAUDCTL equ 0187h");
+[; <" BAUDCTL equ 0187h ;# ">
+"3390
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3390: __asm("ANSEL equ 0188h");
+[; <" ANSEL equ 0188h ;# ">
+"3452
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3452: __asm("ANSELH equ 0189h");
+[; <" ANSELH equ 0189h ;# ">
+"3502
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3502: __asm("EECON1 equ 018Ch");
+[; <" EECON1 equ 018Ch ;# ">
+"3547
+[; ;C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3547: __asm("EECON2 equ 018Dh");
+[; <" EECON2 equ 018Dh ;# ">
+"20 PROJECT1_WASHING_MECHINE.c
+[; ;PROJECT1_WASHING_MECHINE.c: 20: int t, one_sec_flag = 0, count = 0, time = 0, sec = 1, stop_flag = 0, a = 0,led=0;
+[v _t `i ~T0 @X0 1 e ]
+[v _one_sec_flag `i ~T0 @X0 1 e ]
+[i _one_sec_flag
+-> 0 `i
+]
+[v _count `i ~T0 @X0 1 e ]
+[i _count
+-> 0 `i
+]
+[v _time `i ~T0 @X0 1 e ]
+[i _time
+-> 0 `i
+]
+[v _sec `i ~T0 @X0 1 e ]
+[i _sec
+-> 1 `i
+]
+[v _stop_flag `i ~T0 @X0 1 e ]
+[i _stop_flag
+-> 0 `i
+]
+[v _a `i ~T0 @X0 1 e ]
+[i _a
+-> 0 `i
+]
+[v _led `i ~T0 @X0 1 e ]
+[i _led
+-> 0 `i
+]
+"22
+[; ;PROJECT1_WASHING_MECHINE.c: 22: void Lcd(char rs, char data) {
+[v _Lcd `(v ~T0 @X0 1 ef2`uc`uc ]
+{
+[e :U _Lcd ]
+[v _rs `uc ~T0 @X0 1 r1 ]
+[v _data `uc ~T0 @X0 1 r2 ]
+[f ]
+"23
+[; ;PROJECT1_WASHING_MECHINE.c: 23:     RE0 = rs;
+[e = _RE0 -> _rs `b ]
+"24
+[; ;PROJECT1_WASHING_MECHINE.c: 24:     PORTD = data;
+[e = _PORTD -> _data `uc ]
+"25
+[; ;PROJECT1_WASHING_MECHINE.c: 25:     RE1 = 1;
+[e = _RE1 -> -> 1 `i `b ]
+"26
+[; ;PROJECT1_WASHING_MECHINE.c: 26:     for (t = 0; t <= 100; t++);
+{
+[e = _t -> 0 `i ]
+[e $ <= _t -> 100 `i 143  ]
+[e $U 144  ]
+[e :U 143 ]
+[e ++ _t -> 1 `i ]
+[e $ <= _t -> 100 `i 143  ]
+[e :U 144 ]
+}
+"27
+[; ;PROJECT1_WASHING_MECHINE.c: 27:     RE1 = 0;
+[e = _RE1 -> -> 0 `i `b ]
+"28
+[; ;PROJECT1_WASHING_MECHINE.c: 28:     for (t = 0; t <= 100; t++);
+{
+[e = _t -> 0 `i ]
+[e $ <= _t -> 100 `i 146  ]
+[e $U 147  ]
+[e :U 146 ]
+[e ++ _t -> 1 `i ]
+[e $ <= _t -> 100 `i 146  ]
+[e :U 147 ]
+}
+"29
+[; ;PROJECT1_WASHING_MECHINE.c: 29: }
+[e :UE 142 ]
+}
+"31
+[; ;PROJECT1_WASHING_MECHINE.c: 31: void string(char *stop) {
+[v _string `(v ~T0 @X0 1 ef1`*uc ]
+{
+[e :U _string ]
+[v _stop `*uc ~T0 @X0 1 r1 ]
+[f ]
+"32
+[; ;PROJECT1_WASHING_MECHINE.c: 32:     while (*stop) {
+[e $U 150  ]
+[e :U 151 ]
+{
+"33
+[; ;PROJECT1_WASHING_MECHINE.c: 33:         Lcd(1, *stop++);
+[e ( _Lcd (2 , -> -> 1 `i `uc *U ++ _stop * -> -> 1 `i `x -> -> # *U _stop `i `x ]
+"34
+[; ;PROJECT1_WASHING_MECHINE.c: 34:     }
+}
+[e :U 150 ]
+"32
+[; ;PROJECT1_WASHING_MECHINE.c: 32:     while (*stop) {
+[e $ != -> *U _stop `i -> 0 `i 151  ]
+[e :U 152 ]
+"35
+[; ;PROJECT1_WASHING_MECHINE.c: 35: }
+[e :UE 149 ]
+}
+"37
+[; ;PROJECT1_WASHING_MECHINE.c: 37: void display(int sec) {
+[v _display `(v ~T0 @X0 1 ef1`i ]
+{
+[e :U _display ]
+[v _sec `i ~T0 @X0 1 r1 ]
+[f ]
+"38
+[; ;PROJECT1_WASHING_MECHINE.c: 38:     Lcd(0, 0xC0);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 192 `i `uc ]
+"39
+[; ;PROJECT1_WASHING_MECHINE.c: 39:     Lcd(1, (sec / 10) + '0');
+[e ( _Lcd (2 , -> -> 1 `i `uc -> + -> / _sec -> 10 `i `ui -> 48 `ui `uc ]
+"40
+[; ;PROJECT1_WASHING_MECHINE.c: 40:     Lcd(1, (sec % 10) + '0');
+[e ( _Lcd (2 , -> -> 1 `i `uc -> + -> % _sec -> 10 `i `ui -> 48 `ui `uc ]
+"41
+[; ;PROJECT1_WASHING_MECHINE.c: 41: }
+[e :UE 153 ]
+}
+[v $root$_tmr `(v ~T0 @X0 0 e ]
+"43
+[; ;PROJECT1_WASHING_MECHINE.c: 43: void __attribute__((picinterrupt(("")))) tmr()
+[v _tmr `(v ~T1 @X0 1 ef ]
+"44
+[; ;PROJECT1_WASHING_MECHINE.c: 44: {
+{
+[e :U _tmr ]
+[f ]
+"45
+[; ;PROJECT1_WASHING_MECHINE.c: 45:     if (TMR2IF == 1) {
+[e $ ! == -> _TMR2IF `i -> 1 `i 155  ]
+{
+"46
+[; ;PROJECT1_WASHING_MECHINE.c: 46:         count++;
+[e ++ _count -> 1 `i ]
+"47
+[; ;PROJECT1_WASHING_MECHINE.c: 47:         led++;
+[e ++ _led -> 1 `i ]
+"48
+[; ;PROJECT1_WASHING_MECHINE.c: 48:         TMR2IF = 0;
+[e = _TMR2IF -> -> 0 `i `b ]
+"49
+[; ;PROJECT1_WASHING_MECHINE.c: 49:         TMR2 = 0;
+[e = _TMR2 -> -> 0 `i `uc ]
+"50
+[; ;PROJECT1_WASHING_MECHINE.c: 50:         if ((led >= 125)&&(led<=0)){ RC2=1;}
+[e $ ! && >= _led -> 125 `i <= _led -> 0 `i 156  ]
+{
+[e = _RC2 -> -> 1 `i `b ]
+}
+[e :U 156 ]
+"51
+[; ;PROJECT1_WASHING_MECHINE.c: 51:         if ((led>=126)&&(led<=250)){ RC2=0; }
+[e $ ! && >= _led -> 126 `i <= _led -> 250 `i 157  ]
+{
+[e = _RC2 -> -> 0 `i `b ]
+}
+[e :U 157 ]
+"52
+[; ;PROJECT1_WASHING_MECHINE.c: 52:         if (led>=256){ led = 0; }
+[e $ ! >= _led -> 256 `i 158  ]
+{
+[e = _led -> 0 `i ]
+}
+[e :U 158 ]
+"53
+[; ;PROJECT1_WASHING_MECHINE.c: 53:     }
+}
+[e :U 155 ]
+"54
+[; ;PROJECT1_WASHING_MECHINE.c: 54:     if (a == 1)
+[e $ ! == _a -> 1 `i 159  ]
+"55
+[; ;PROJECT1_WASHING_MECHINE.c: 55:     {
+{
+"56
+[; ;PROJECT1_WASHING_MECHINE.c: 56:         if (sec > 0)
+[e $ ! > _sec -> 0 `i 160  ]
+"57
+[; ;PROJECT1_WASHING_MECHINE.c: 57:         {
+{
+"58
+[; ;PROJECT1_WASHING_MECHINE.c: 58:             display(sec);
+[e ( _display (1 _sec ]
+"59
+[; ;PROJECT1_WASHING_MECHINE.c: 59:             if (count >= 125)
+[e $ ! >= _count -> 125 `i 161  ]
+"60
+[; ;PROJECT1_WASHING_MECHINE.c: 60:             {
+{
+"61
+[; ;PROJECT1_WASHING_MECHINE.c: 61:                 sec--;
+[e -- _sec -> 1 `i ]
+"62
+[; ;PROJECT1_WASHING_MECHINE.c: 62:                 count = 0;
+[e = _count -> 0 `i ]
+"63
+[; ;PROJECT1_WASHING_MECHINE.c: 63:             }
+}
+[e :U 161 ]
+"64
+[; ;PROJECT1_WASHING_MECHINE.c: 64:             if (((sec <= 5) || (sec <= 15) || (sec <= 25) || (sec <= 35) || (sec <= 45))&&((sec >= 0) || (sec >= 31) || (sec >= 21) || (sec >= 11)))
+[e $ ! && || || || || <= _sec -> 5 `i <= _sec -> 15 `i <= _sec -> 25 `i <= _sec -> 35 `i <= _sec -> 45 `i || || || >= _sec -> 0 `i >= _sec -> 31 `i >= _sec -> 21 `i >= _sec -> 11 `i 162  ]
+"65
+[; ;PROJECT1_WASHING_MECHINE.c: 65:             {
+{
+"66
+[; ;PROJECT1_WASHING_MECHINE.c: 66:                 RC0 = 1;
+[e = _RC0 -> -> 1 `i `b ]
+"67
+[; ;PROJECT1_WASHING_MECHINE.c: 67:                 RC1 = 0;
+[e = _RC1 -> -> 0 `i `b ]
+"68
+[; ;PROJECT1_WASHING_MECHINE.c: 68:             }
+}
+[e :U 162 ]
+"69
+[; ;PROJECT1_WASHING_MECHINE.c: 69:             if (((sec <= 10) || (sec <= 20) || (sec <= 30) || (sec <= 40))&&((sec >= 6) || (sec >= 16) || (sec >= 26) || (sec >= 36)))
+[e $ ! && || || || <= _sec -> 10 `i <= _sec -> 20 `i <= _sec -> 30 `i <= _sec -> 40 `i || || || >= _sec -> 6 `i >= _sec -> 16 `i >= _sec -> 26 `i >= _sec -> 36 `i 163  ]
+"70
+[; ;PROJECT1_WASHING_MECHINE.c: 70:             {
+{
+"71
+[; ;PROJECT1_WASHING_MECHINE.c: 71:                 RC1 = 1;
+[e = _RC1 -> -> 1 `i `b ]
+"72
+[; ;PROJECT1_WASHING_MECHINE.c: 72:                 RC0 = 0;
+[e = _RC0 -> -> 0 `i `b ]
+"73
+[; ;PROJECT1_WASHING_MECHINE.c: 73:             }
+}
+[e :U 163 ]
+"74
+[; ;PROJECT1_WASHING_MECHINE.c: 74:             if (sec == 0)
+[e $ ! == _sec -> 0 `i 164  ]
+"75
+[; ;PROJECT1_WASHING_MECHINE.c: 75:             {
+{
+"76
+[; ;PROJECT1_WASHING_MECHINE.c: 76:                 Lcd(0, 0xC0);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 192 `i `uc ]
+"77
+[; ;PROJECT1_WASHING_MECHINE.c: 77:                 string("END");
+[e ( _string (1 :s 1C ]
+"78
+[; ;PROJECT1_WASHING_MECHINE.c: 78:                 RC0 = RC1 = 0;
+[e = _RC0 -> = _RC1 -> -> 0 `i `b `b ]
+"79
+[; ;PROJECT1_WASHING_MECHINE.c: 79:                 a = 0;
+[e = _a -> 0 `i ]
+"80
+[; ;PROJECT1_WASHING_MECHINE.c: 80:             }
+}
+[e :U 164 ]
+"81
+[; ;PROJECT1_WASHING_MECHINE.c: 81:         }
+}
+[e :U 160 ]
+"83
+[; ;PROJECT1_WASHING_MECHINE.c: 83:     }
+}
+[e :U 159 ]
+"84
+[; ;PROJECT1_WASHING_MECHINE.c: 84: }
+[e :UE 154 ]
+}
+[v $root$_main `(v ~T0 @X0 0 e ]
+"86
+[; ;PROJECT1_WASHING_MECHINE.c: 86: void main() {
+[v _main `(v ~T0 @X0 1 ef ]
+{
+[e :U _main ]
+[f ]
+"87
+[; ;PROJECT1_WASHING_MECHINE.c: 87:     PORTB = PORTD = PORTE = TRISD = TRISE = ANSEL = ANSELH = PORTC = TRISC = 0x00;
+[e = _PORTB = _PORTD = _PORTE = _TRISD = _TRISE = _ANSEL = _ANSELH = _PORTC = _TRISC -> -> 0 `i `uc ]
+"88
+[; ;PROJECT1_WASHING_MECHINE.c: 88:     TRISB = 0xFF;
+[e = _TRISB -> -> 255 `i `uc ]
+"89
+[; ;PROJECT1_WASHING_MECHINE.c: 89:     Lcd(0, 0x38);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 56 `i `uc ]
+"90
+[; ;PROJECT1_WASHING_MECHINE.c: 90:     Lcd(0, 0x0E);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 14 `i `uc ]
+"91
+[; ;PROJECT1_WASHING_MECHINE.c: 91:     Lcd(0, 0x80);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 128 `i `uc ]
+"92
+[; ;PROJECT1_WASHING_MECHINE.c: 92:     GIE = PEIE = TMR2IE = 1;
+[e = _GIE -> = _PEIE -> = _TMR2IE -> -> 1 `i `b `b `b ]
+"93
+[; ;PROJECT1_WASHING_MECHINE.c: 93:     T2CON = 0x7F;
+[e = _T2CON -> -> 127 `i `uc ]
+"94
+[; ;PROJECT1_WASHING_MECHINE.c: 94:     TMR2 = 0;
+[e = _TMR2 -> -> 0 `i `uc ]
+"95
+[; ;PROJECT1_WASHING_MECHINE.c: 95:     PR2 = 125;
+[e = _PR2 -> -> 125 `i `uc ]
+"96
+[; ;PROJECT1_WASHING_MECHINE.c: 96:     Lcd(0, 0x80);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 128 `i `uc ]
+"97
+[; ;PROJECT1_WASHING_MECHINE.c: 97:     string("WELCOME");
+[e ( _string (1 :s 2C ]
+"98
+[; ;PROJECT1_WASHING_MECHINE.c: 98:     while (1) {
+[e :U 167 ]
+{
+"99
+[; ;PROJECT1_WASHING_MECHINE.c: 99:         if (RB0 == 1)
+[e $ ! == -> _RB0 `i -> 1 `i 169  ]
+"100
+[; ;PROJECT1_WASHING_MECHINE.c: 100:         {
+{
+"101
+[; ;PROJECT1_WASHING_MECHINE.c: 101:             time += 5;
+[e =+ _time -> 5 `i ]
+"102
+[; ;PROJECT1_WASHING_MECHINE.c: 102:             if (time >= 20)
+[e $ ! >= _time -> 20 `i 170  ]
+"103
+[; ;PROJECT1_WASHING_MECHINE.c: 103:             {
+{
+"104
+[; ;PROJECT1_WASHING_MECHINE.c: 104:                 time = 0;
+[e = _time -> 0 `i ]
+"105
+[; ;PROJECT1_WASHING_MECHINE.c: 105:             }
+}
+[e :U 170 ]
+"106
+[; ;PROJECT1_WASHING_MECHINE.c: 106:             sec = time;
+[e = _sec _time ]
+"107
+[; ;PROJECT1_WASHING_MECHINE.c: 107:             display(sec);
+[e ( _display (1 _sec ]
+"108
+[; ;PROJECT1_WASHING_MECHINE.c: 108:             while (RB0 == 1);
+[e $U 171  ]
+[e :U 172 ]
+[e :U 171 ]
+[e $ == -> _RB0 `i -> 1 `i 172  ]
+[e :U 173 ]
+"109
+[; ;PROJECT1_WASHING_MECHINE.c: 109:         }
+}
+[e :U 169 ]
+"110
+[; ;PROJECT1_WASHING_MECHINE.c: 110:         if (RB1 == 1)
+[e $ ! == -> _RB1 `i -> 1 `i 174  ]
+"111
+[; ;PROJECT1_WASHING_MECHINE.c: 111:         {
+{
+"112
+[; ;PROJECT1_WASHING_MECHINE.c: 112:             sec = time + 10;
+[e = _sec + _time -> 10 `i ]
+"113
+[; ;PROJECT1_WASHING_MECHINE.c: 113:             display(sec);
+[e ( _display (1 _sec ]
+"114
+[; ;PROJECT1_WASHING_MECHINE.c: 114:             while (RB1 == 1);
+[e $U 175  ]
+[e :U 176 ]
+[e :U 175 ]
+[e $ == -> _RB1 `i -> 1 `i 176  ]
+[e :U 177 ]
+"115
+[; ;PROJECT1_WASHING_MECHINE.c: 115:         }
+}
+[e :U 174 ]
+"116
+[; ;PROJECT1_WASHING_MECHINE.c: 116:         if (RB2 == 1)
+[e $ ! == -> _RB2 `i -> 1 `i 178  ]
+"117
+[; ;PROJECT1_WASHING_MECHINE.c: 117:         {
+{
+"118
+[; ;PROJECT1_WASHING_MECHINE.c: 118:             sec = time + 20;
+[e = _sec + _time -> 20 `i ]
+"119
+[; ;PROJECT1_WASHING_MECHINE.c: 119:             display(sec);
+[e ( _display (1 _sec ]
+"120
+[; ;PROJECT1_WASHING_MECHINE.c: 120:             while (RB2 == 1);
+[e $U 179  ]
+[e :U 180 ]
+[e :U 179 ]
+[e $ == -> _RB2 `i -> 1 `i 180  ]
+[e :U 181 ]
+"121
+[; ;PROJECT1_WASHING_MECHINE.c: 121:         }
+}
+[e :U 178 ]
+"122
+[; ;PROJECT1_WASHING_MECHINE.c: 122:         if (RB3 == 1)
+[e $ ! == -> _RB3 `i -> 1 `i 182  ]
+"123
+[; ;PROJECT1_WASHING_MECHINE.c: 123:         {
+{
+"124
+[; ;PROJECT1_WASHING_MECHINE.c: 124:             sec = time + 30;
+[e = _sec + _time -> 30 `i ]
+"125
+[; ;PROJECT1_WASHING_MECHINE.c: 125:             display(sec);
+[e ( _display (1 _sec ]
+"126
+[; ;PROJECT1_WASHING_MECHINE.c: 126:             while (RB3 == 1);
+[e $U 183  ]
+[e :U 184 ]
+[e :U 183 ]
+[e $ == -> _RB3 `i -> 1 `i 184  ]
+[e :U 185 ]
+"127
+[; ;PROJECT1_WASHING_MECHINE.c: 127:         }
+}
+[e :U 182 ]
+"128
+[; ;PROJECT1_WASHING_MECHINE.c: 128:         if (RB4 == 1)
+[e $ ! == -> _RB4 `i -> 1 `i 186  ]
+"129
+[; ;PROJECT1_WASHING_MECHINE.c: 129:         {
+{
+"130
+[; ;PROJECT1_WASHING_MECHINE.c: 130:             a = 1;
+[e = _a -> 1 `i ]
+"131
+[; ;PROJECT1_WASHING_MECHINE.c: 131:         }
+}
+[e :U 186 ]
+"133
+[; ;PROJECT1_WASHING_MECHINE.c: 133:         if (RB5 == 1) {
+[e $ ! == -> _RB5 `i -> 1 `i 187  ]
+{
+"134
+[; ;PROJECT1_WASHING_MECHINE.c: 134:             Lcd(0, 0x80);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 128 `i `uc ]
+"135
+[; ;PROJECT1_WASHING_MECHINE.c: 135:             string("EMERGENCY STOP");
+[e ( _string (1 :s 3C ]
+"136
+[; ;PROJECT1_WASHING_MECHINE.c: 136:             while (RB5 == 1);
+[e $U 188  ]
+[e :U 189 ]
+[e :U 188 ]
+[e $ == -> _RB5 `i -> 1 `i 189  ]
+[e :U 190 ]
+"137
+[; ;PROJECT1_WASHING_MECHINE.c: 137:         }
+}
+[e :U 187 ]
+"138
+[; ;PROJECT1_WASHING_MECHINE.c: 138:     }
+}
+[e :U 166 ]
+[e $U 167  ]
+[e :U 168 ]
+"139
+[; ;PROJECT1_WASHING_MECHINE.c: 139: }
+[e :UE 165 ]
+}
+[a 3C 69 77 69 82 71 69 78 67 89 32 83 84 79 80 0 ]
+[a 2C 87 69 76 67 79 77 69 0 ]
+[a 1C 69 78 68 0 ]

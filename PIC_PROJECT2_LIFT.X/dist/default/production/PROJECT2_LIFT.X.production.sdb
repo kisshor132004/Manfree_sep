@@ -1,0 +1,104 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F887 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v3.10\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v3.10\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v3.10\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"37 C:\Users\kissh\Desktop\ManFree\PIC_project\PROJECT\PROJECT2_LIFT.X\Project2_lift.c
+[v _Lcd Lcd `(i  1 e 2 0 ]
+"47
+[v _Lcd_String Lcd_String `(i  1 e 2 0 ]
+"56
+[v _display_floor display_floor `(i  1 e 2 0 ]
+"67
+[v _main main `(v  1 e 1 0 ]
+"167 C:/Users/kissh/Desktop/ManFree/MPLAB_XIDE_6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+"291
+[v _PORTC PORTC `VEuc  1 e 1 @7 ]
+"353
+[v _PORTD PORTD `VEuc  1 e 1 @8 ]
+"415
+[v _PORTE PORTE `VEuc  1 e 1 @9 ]
+"1417
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"1479
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1541
+[v _TRISC TRISC `VEuc  1 e 1 @135 ]
+"1603
+[v _TRISD TRISD `VEuc  1 e 1 @136 ]
+"1665
+[v _TRISE TRISE `VEuc  1 e 1 @137 ]
+"3388
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3450
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"4084
+[v _RA0 RA0 `VEb  1 e 0 @40 ]
+"4087
+[v _RA1 RA1 `VEb  1 e 0 @41 ]
+"4090
+[v _RA2 RA2 `VEb  1 e 0 @42 ]
+"4093
+[v _RA3 RA3 `VEb  1 e 0 @43 ]
+"4108
+[v _RB0 RB0 `VEb  1 e 0 @48 ]
+"4111
+[v _RB1 RB1 `VEb  1 e 0 @49 ]
+"4114
+[v _RB2 RB2 `VEb  1 e 0 @50 ]
+"4117
+[v _RB3 RB3 `VEb  1 e 0 @51 ]
+"4138
+[v _RC0 RC0 `VEb  1 e 0 @56 ]
+"4141
+[v _RC1 RC1 `VEb  1 e 0 @57 ]
+"4144
+[v _RC2 RC2 `VEb  1 e 0 @58 ]
+"4147
+[v _RC3 RC3 `VEb  1 e 0 @59 ]
+"4150
+[v _RC4 RC4 `VEb  1 e 0 @60 ]
+"4153
+[v _RC5 RC5 `VEb  1 e 0 @61 ]
+"4210
+[v _RE0 RE0 `VEb  1 e 0 @72 ]
+"4213
+[v _RE1 RE1 `VEb  1 e 0 @73 ]
+"35 C:\Users\kissh\Desktop\ManFree\PIC_project\PROJECT\PROJECT2_LIFT.X\Project2_lift.c
+[v _t t `i  1 e 2 0 ]
+"67
+[v _main main `(v  1 e 1 0 ]
+{
+"235
+} 0
+"56
+[v _display_floor display_floor `(i  1 e 2 0 ]
+{
+[v display_floor@f1o f1o `i  1 p 2 2 ]
+"65
+} 0
+"47
+[v _Lcd_String Lcd_String `(i  1 e 2 0 ]
+{
+[v Lcd_String@stop stop `*.24uc  1 p 1 2 ]
+"54
+} 0
+"37
+[v _Lcd Lcd `(i  1 e 2 0 ]
+{
+[v Lcd@rs rs `uc  1 p 1 wreg ]
+[v Lcd@rs rs `uc  1 p 1 wreg ]
+[v Lcd@data data `uc  1 p 1 0 ]
+"39
+[v Lcd@rs rs `uc  1 p 1 1 ]
+"45
+} 1

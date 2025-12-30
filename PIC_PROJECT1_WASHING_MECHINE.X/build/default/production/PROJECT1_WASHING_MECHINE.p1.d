@@ -1,0 +1,2 @@
+build/default/production/PROJECT1_WASHING_MECHINE.p1:  \
+PROJECT1_WASHING_MECHINE.c 
