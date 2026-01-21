@@ -1,0 +1,185 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F887 ]
+[d frameptr 0 ]
+"5 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c90\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"5 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c90\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"16 D:\ManFree\PIC_project\3_PROJECT\CAR_dashbord_rx.X\CAR_dashbord_rx.c
+[v _lcd_cmd lcd_cmd `(v  1 e 1 0 ]
+"26
+[v _lcd_data lcd_data `(v  1 e 1 0 ]
+"36
+[v _lcd_init lcd_init `(v  1 e 1 0 ]
+"45
+[v _lcd_string lcd_string `(v  1 e 1 0 ]
+"52
+[v _UART_Init UART_Init `(v  1 e 1 0 ]
+"59
+[v _UART_Rx UART_Rx `(uc  1 e 1 0 ]
+"66
+[v _show_open_door show_open_door `(v  1 e 1 0 ]
+"76
+[v _door door `(v  1 e 1 0 ]
+"93
+[v _fuel_status fuel_status `(v  1 e 1 0 ]
+"101
+[v _lcd_percentage lcd_percentage `(v  1 e 1 0 ]
+"116
+[v _main main `(v  1 e 1 0 ]
+"353 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f887.h
+[v _PORTD PORTD `VEuc  1 e 1 @8 ]
+"1039
+[v _RCSTA RCSTA `VEuc  1 e 1 @24 ]
+"1141
+[v _RCREG RCREG `VEuc  1 e 1 @26 ]
+"1417
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"1603
+[v _TRISD TRISD `VEuc  1 e 1 @136 ]
+"1665
+[v _TRISE TRISE `VEuc  1 e 1 @137 ]
+"2557
+[v _TXSTA TXSTA `VEuc  1 e 1 @152 ]
+"2643
+[v _SPBRG SPBRG `VEuc  1 e 1 @153 ]
+"3388
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3450
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"4099
+[v _RA5 RA5 `VEb  1 e 0 @45 ]
+"4180
+[v _RCIF RCIF `VEb  1 e 0 @101 ]
+"4210
+[v _RE0 RE0 `VEb  1 e 0 @72 ]
+"4213
+[v _RE1 RE1 `VEb  1 e 0 @73 ]
+"4471
+[v _TRISC6 TRISC6 `VEb  1 e 0 @1086 ]
+"4474
+[v _TRISC7 TRISC7 `VEb  1 e 0 @1087 ]
+"12 D:\ManFree\PIC_project\3_PROJECT\CAR_dashbord_rx.X\CAR_dashbord_rx.c
+[v _p p `i  1 e 2 0 ]
+[v _a a `i  1 e 2 0 ]
+[v _b b `i  1 e 2 0 ]
+[v _c c `i  1 e 2 0 ]
+"13
+[v _doors doors `uc  1 e 1 0 ]
+[v _fuel fuel `uc  1 e 1 0 ]
+"116
+[v _main main `(v  1 e 1 0 ]
+{
+"139
+} 0
+"101
+[v _lcd_percentage lcd_percentage `(v  1 e 1 0 ]
+{
+[v lcd_percentage@fuel fuel `uc  1 a 1 wreg ]
+[v lcd_percentage@fuel fuel `uc  1 a 1 wreg ]
+"103
+[v lcd_percentage@fuel fuel `uc  1 a 1 4 ]
+"113
+} 0
+"5 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c90\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+{
+"10
+[v ___awmod@sign sign `uc  1 a 1 6 ]
+[v ___awmod@counter counter `uc  1 a 1 5 ]
+"5
+[v ___awmod@divisor divisor `i  1 p 2 0 ]
+[v ___awmod@dividend dividend `i  1 p 2 2 ]
+"34
+} 0
+"5 C:\Program Files\Microchip\xc8\v2.40\pic\sources\c90\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+{
+"10
+[v ___awdiv@quotient quotient `i  1 a 2 2 ]
+"11
+[v ___awdiv@sign sign `uc  1 a 1 1 ]
+[v ___awdiv@counter counter `uc  1 a 1 0 ]
+"5
+[v ___awdiv@divisor divisor `i  1 p 2 7 ]
+[v ___awdiv@dividend dividend `i  1 p 2 9 ]
+"41
+} 0
+"36 D:\ManFree\PIC_project\3_PROJECT\CAR_dashbord_rx.X\CAR_dashbord_rx.c
+[v _lcd_init lcd_init `(v  1 e 1 0 ]
+{
+"43
+} 0
+"93
+[v _fuel_status fuel_status `(v  1 e 1 0 ]
+{
+[v fuel_status@fuel fuel `uc  1 a 1 wreg ]
+[v fuel_status@fuel fuel `uc  1 a 1 wreg ]
+"95
+[v fuel_status@fuel fuel `uc  1 a 1 0 ]
+"99
+} 0
+"76
+[v _door door `(v  1 e 1 0 ]
+{
+[v door@door_status door_status `uc  1 a 1 wreg ]
+[v door@door_status door_status `uc  1 a 1 wreg ]
+"78
+[v door@door_status door_status `uc  1 a 1 7 ]
+"90
+} 0
+"66
+[v _show_open_door show_open_door `(v  1 e 1 0 ]
+{
+[v show_open_door@status status `uc  1 a 1 wreg ]
+[v show_open_door@status status `uc  1 a 1 wreg ]
+"68
+[v show_open_door@status status `uc  1 a 1 5 ]
+"74
+} 0
+"45
+[v _lcd_string lcd_string `(v  1 e 1 0 ]
+{
+[v lcd_string@s s `*.24DCuc  1 a 1 wreg ]
+[v lcd_string@s s `*.24DCuc  1 a 1 wreg ]
+[v lcd_string@s s `*.24DCuc  1 a 1 4 ]
+"49
+} 0
+"26
+[v _lcd_data lcd_data `(v  1 e 1 0 ]
+{
+[v lcd_data@d d `uc  1 a 1 wreg ]
+[v lcd_data@d d `uc  1 a 1 wreg ]
+"28
+[v lcd_data@d d `uc  1 a 1 2 ]
+"34
+} 0
+"16
+[v _lcd_cmd lcd_cmd `(v  1 e 1 0 ]
+{
+[v lcd_cmd@c c `uc  1 a 1 wreg ]
+[v lcd_cmd@c c `uc  1 a 1 wreg ]
+"18
+[v lcd_cmd@c c `uc  1 a 1 2 ]
+"24
+} 0
+"59
+[v _UART_Rx UART_Rx `(uc  1 e 1 0 ]
+{
+"63
+} 0
+"52
+[v _UART_Init UART_Init `(v  1 e 1 0 ]
+{
+"57
+} 0
